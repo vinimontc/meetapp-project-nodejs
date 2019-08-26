@@ -7,7 +7,7 @@ Ferramentas e tecnologias utilizadas:
 - Sucrase + Nodemon;
 - ESLint + Prettier + EditorConfig;
 - Sequelize (com PostgresSQL);
-- Para a realizaço de testes e administração de ambientes foi utilizado a plataforma Docker;
+- Para a realização de testes e administração de ambientes foi utilizado a plataforma Docker;
 - Para a autenticação do usuário que é o foco dessa primeira parte do sistema foi utilizado o JWT (JavaWebToken);
 - Bcryptjs para criptografia de senha do usuário;
 
@@ -22,7 +22,7 @@ Permite que um usuário se autentique na aplicação utilizando e-mail e senha.
 ### Cadastro e atualização de usuários
 
 Permite que novos usuários se cadastrem na aplicação utilizando nome, e-mail e senha. 
-E também permite a auteração de dados como nome, e-mail e principalmente a senha, onde é solicitado uma confirmação de nova senha e senha atual.
+E também permite a alteração desses dados, nome, e-mail e principalmente a senha, onde é solicitado uma confirmação de nova senha e senha atual.
 
 ## Observações
 
